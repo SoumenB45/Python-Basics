@@ -3,7 +3,7 @@ This repository contains solutions to an assignment on Python basics. The assign
 
 ### Assignment Questions
 __1. Explain the key features of Python that make it a popular choice for programming.__
-- This question covers Python's readability, simplicity, extensive libraries, and community support.<br>
+- This question covers Python's readability, simplicity, extensive libraries, and community support.
 
 **2. Describe the role of predefined keywords in Python and provide examples of how they are used in a program.**
 - Here, Python's predefined keywords and their role in syntax and functionality are explained with examples.
